@@ -27,17 +27,6 @@ A modern **Python desktop application** that allows users to **mark attendance u
 
 ---
 
-## 🖥️ Screenshots
-
-> _Add screenshots here in your repo for better presentation_
-- Main Dashboard
-- QR Scan Interface
-- Attendance Viewer
-- Admin Panel
-- User Management
-
----
-
 ## 📦 Installation
 
 1. **Clone the repository**:
@@ -45,7 +34,7 @@ A modern **Python desktop application** that allows users to **mark attendance u
 ```bash
 git clone https://github.com/CodeWithVedang/Attendance_Systeam_Using_Python.git
 cd Attendance_Systeam_Using_Python
-
+```
 2. Install dependencies:
 
 
